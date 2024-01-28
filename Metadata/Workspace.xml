@@ -2,9 +2,8 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{1bb0d4ee-63c7-4d1e-9ac7-4fc56da1d7e7}">
 		<property name="builtBanksOutputDirectory">
-			<value>D:/UE_5.3/Projects/SphincterCell/Content/FMOD</value>
+			<value>Build</value>
 		</property>
-		<property name="builtBanksEncryptionKey" />
 		<relationship name="masterEventFolder">
 			<destination>{edb4ba4c-7bb8-4fcd-bdd6-09c39c67909d}</destination>
 		</relationship>
