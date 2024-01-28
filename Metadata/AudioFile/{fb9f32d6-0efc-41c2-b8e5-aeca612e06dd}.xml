@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fb9f32d6-0efc-41c2-b8e5-aeca612e06dd}">
+		<property name="assetPath">
+			<value>Footstep SFX/CreakyWood_Boots_Sneaking.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>45.87916666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{394ca2d7-5fb4-4e7d-87bf-a42e0daaaa5e}</destination>
+		</relationship>
+	</object>
+</objects>

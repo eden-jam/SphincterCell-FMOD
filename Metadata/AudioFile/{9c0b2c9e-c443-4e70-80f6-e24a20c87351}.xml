@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9c0b2c9e-c443-4e70-80f6-e24a20c87351}">
+		<property name="assetPath">
+			<value>Footstep SFX/Dirt_Jogging.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>16.655999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{394ca2d7-5fb4-4e7d-87bf-a42e0daaaa5e}</destination>
+		</relationship>
+	</object>
+</objects>

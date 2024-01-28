@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{65513d43-324c-42b0-a626-4b08ea06b2bf}">
+		<property name="assetPath">
+			<value>Footstep SFX/Puddle_Running.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>27.708625000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{394ca2d7-5fb4-4e7d-87bf-a42e0daaaa5e}</destination>
+		</relationship>
+	</object>
+</objects>

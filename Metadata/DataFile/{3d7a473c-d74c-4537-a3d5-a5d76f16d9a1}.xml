@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="DataFile" id="{3d7a473c-d74c-4537-a3d5-a5d76f16d9a1}">
+		<property name="assetPath">
+			<value>Footstep SFX/z_Misc_Footscraping_Shoes_Moving.wav.reapeaks</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{394ca2d7-5fb4-4e7d-87bf-a42e0daaaa5e}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{06f00feb-3755-4759-bb7d-e83890985c42}">
+		<property name="assetPath">
+			<value>Footstep SFX/Concrete_Barefoot_Walking.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>29.829812499999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{394ca2d7-5fb4-4e7d-87bf-a42e0daaaa5e}</destination>
+		</relationship>
+	</object>
+</objects>
